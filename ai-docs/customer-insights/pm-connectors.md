@@ -29,7 +29,7 @@ In order to use the Customer Insights dashboard, make sure that you have created
 
 ### Step One: Download MEZ file
 
-Download the following MEZ file from Blobs: [https://go.microsoft.com/fwlink/p/?linkid=2077331](https://go.microsoft.com/fwlink/p/?linkid=2077331).
+Download the following mez file from Blobs: [https://go.microsoft.com/fwlink/p/?linkid=2077331](https://go.microsoft.com/fwlink/p/?linkid=2077331).
 
 ### Step Two: Publish the Customer Insights dashboard
  
@@ -46,8 +46,8 @@ Download the following MEZ file from Blobs: [https://go.microsoft.com/fwlink/p/?
 
 3. Publish the Customer Insights dashboard as a service.
 
-   - You will need to copy your instance ID (which can be taken from your app URL), and attach it to the following address: <br />
-  https://tip.api.ci.ai.dynamics.com/api/instances/**your instance ID**
+You will need to copy your instance ID (which can be taken from your app URL), and attach it to the following address: 
+https://prod-neu-01.api.ci.ai.dynamics.com/api/instances/**your instance ID**
 
    - Copy and paste the complete URL address (fixed part + **your instance ID**) to the URL field in Power BI, as shown here.
 
