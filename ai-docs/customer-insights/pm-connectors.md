@@ -31,6 +31,8 @@ In order to use the Customer Insights dashboard, make sure that you have created
 
 Download the following mez file from Blobs: [https://go.microsoft.com/fwlink/p/?linkid=2077331](https://go.microsoft.com/fwlink/p/?linkid=2077331).
 
+Note: If you first wish to store the mez file, you should use the following location: **\Documents\Power BI Desktop\Custom Connectors**
+
 ### Step Two: Publish the Customer Insights dashboard
  
  1. Bring Customer Insights data to Power BI. Open Microsoft Power BI for Desktop, and select **Get Data** in the menu at the top of the page.
