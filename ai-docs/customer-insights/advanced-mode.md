@@ -31,7 +31,7 @@ Advanced mode allows you to use raw SQL data to define any segment. Advanced mod
 >
 > - Customer Insights uses the SQL dialect of **Spark 2.3 (HDI 3.6)**. There are minor differences from a raw SQL that you should be aware of before you type the SQL query for your segment.
 > - View the SQL guidelines later in this topic.
-> - View the Spark 2.3 [documentation](https://spark.apache.org/docs/2.3.0/). 
+> - View the Spark 2.3 [documentation] (https://spark.apache.org/docs/2.3.0/). 
 
 ### When should I use advanced mode? 
 
